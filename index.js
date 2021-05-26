@@ -115,7 +115,7 @@ inquirer
             default:
                 licenseImg = "";
         };
-        const readmeFile = generateReadme({...responses, licenseBadge: licenseBadge});
+        const readmeFile = generateReadme({...responses, licenseBadge: licenseImg});
         console.log(readmeFile);
 
         fs.writeFile("README.md", readmeFile, (err) =>
