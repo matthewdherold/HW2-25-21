@@ -1,4 +1,20 @@
 {
+  "name": "HW2-25-21",
+  "version": "1.0.0",
+  "description": "Basic JavaScript file utilizing inquirer to generate a clean and professional README through use of the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewdherold/HW2-25-21.git"
+  },
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/matthewdherold/HW2-25-21/issues"
+  },
   "dependencies": {
     "inquirer": "^8.1.0"
   }

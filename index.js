@@ -118,7 +118,8 @@ inquirer
         const readmeFile = generateReadme({...responses, licenseBadge: licenseImg});
         console.log(readmeFile);
 
-        fs.writeFile("README.md", readmeFile, (err) =>
+        fs.
+        fs.writeFile("./Output/README.md", readmeFile, (err) =>
             err ? console.err(err) : console.log("Success!")
         );
 });
