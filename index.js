@@ -121,7 +121,6 @@ inquirer
         const readmeFile = generateReadme({...responses, licenseBadge: licenseImg});
         console.log(readmeFile);
 
-        fs.
         fs.writeFile("./Output/README.md", readmeFile, (err) =>
             err ? console.err(err) : console.log("Success!")
         );
