@@ -11,7 +11,6 @@ Basic JavaScript file utilizing inquirer to generate a clean and professional RE
 - [Credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Contact](#contact)
 
 ## Installation
@@ -25,9 +24,6 @@ GNU GPL v3
 
 ## Contributing
 Feel free to modify this code to fit your needs, adding or removing sections based on what your projects feature.
-
-## Tests
-
 
 ## Contact
 https://github.com/matthewdherold

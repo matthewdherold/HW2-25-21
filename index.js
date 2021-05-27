@@ -1,7 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 
-const generateReadme = ({title, description, installation, usage, license, contributing, tests, github, email, licenseBadge}) =>
+const generateReadme = ({title, description, installation, usage, credits, license, contributing, tests, github, licenseBadge}) =>
 
 `
 # ${title}
@@ -24,6 +24,9 @@ ${installation}
 
 ## Usage
 ${usage}
+
+## Credits
+${credits}
 
 ## License
 ${license}
