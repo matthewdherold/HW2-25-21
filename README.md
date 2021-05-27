@@ -21,7 +21,7 @@ Clone the repository from GitHub, open your command line in the project folder, 
 Open the command line in the project folder and run "npm start" to begin the application. The command line will then request information on your project. Fill out each section, then your new README file will be created and filled with the information you provided.
 
 ## Video
-![Demo-Video](.\Demo\Demo-Video.gif)
+<img src="./Demo/Demo-Video.gif" alt="application demo">
 Link to Video: https://drive.google.com/file/d/1dRvBDx9a9ssBH8xz5nKKpv7xkc_GXfJM/view?usp=sharing
 
 ## License
