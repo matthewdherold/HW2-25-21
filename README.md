@@ -8,6 +8,7 @@ Basic JavaScript file utilizing inquirer to generate a clean and professional RE
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video](#video)
 - [Credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
@@ -17,7 +18,11 @@ Basic JavaScript file utilizing inquirer to generate a clean and professional RE
 Clone the repository from GitHub, open your command line in the project folder, then run "npm i" to install inquirer 
 
 ## Usage
-Simply open the command line in the project folder and run "npm start" to begin the application. The command line will then request information on your project. Fill out each section, then your new README file will be created and filled with the information you provided.
+Open the command line in the project folder and run "npm start" to begin the application. The command line will then request information on your project. Fill out each section, then your new README file will be created and filled with the information you provided.
+
+## Video
+![Demo-Video](.\Demo\Demo-Video.gif)
+Link to Video: https://drive.google.com/file/d/1dRvBDx9a9ssBH8xz5nKKpv7xkc_GXfJM/view?usp=sharing
 
 ## License
 GNU GPL v3
