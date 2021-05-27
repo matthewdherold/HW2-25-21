@@ -122,6 +122,6 @@ inquirer
         console.log(readmeFile);
 
         fs.writeFile("./Output/README.md", readmeFile, (err) =>
-            err ? console.err(err) : console.log("Success!")
+            err ? console.log(err) : console.log("Success!")
         );
 });
